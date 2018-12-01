@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Belajar JS</title>
+	<script type="text/javascript">
+		/*window.onload = function () {
+			alert('Hello World');
+		}*/
+
+
+
+	</script>
+</head>
+<body onclose="return confirm('yakin?')" on>
+	<h3>Belajar JS</h3>
+	<input type="text" name="text1" onkeyup="alert(this.value);">
+	<a href="#" onclick="alert('Kamu klik tombol ini!!!');">Klik Saya</a>
+	<hr>
+	<div>
+		<form>
+			<h3>Calc Mini</h3>
+			<label>Nilai 1 : </label>
+			<input type="text" name="nilai1" value="0" id="nilai1">
+			<br>
+			<label>Nilai 2 : </label>
+			<input type="text" name="nilai2" value="0" id="nilai2">
+			<br>
+			<label>Hasil</label>
+			<input type="text" name="hasil" id="hasil" value="0" readonly="">
+			<br>
+			<button type="button" id="btnHitung" onclick="tampilkanPesan();">Hitung</button>
+		</form>
+	</div>
+	<script src="asset/js/latihan1.js"></script>
+</body>
+</html>
