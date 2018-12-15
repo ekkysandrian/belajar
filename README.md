@@ -1,6 +1,7 @@
 # Kursus : Private Web Advance #
+## Deskripsi ##
 > Mempelajari pemrograman aplikasi berbasis web menggunakan PHP, CodeIgniter, Bootstrap, JQuery, dll.
-> 18 x @ 1,5 jam pertemuan & free konsultasi 
+> 18 x @ 1,5 jam pertemuan & free konsultasi
 
 - Member : Ekky
 - Mentor : 
@@ -24,3 +25,8 @@
 - Web Browser : Firefox/ Chrome/ Opera/ Safari
 - Code Editor : SublimeText/ Visual Studio Code/ npp
 - Git Client : SmartGit/ GitExtension/ Git Cola
+- Account github.com
+
+## Tugas/ Latihan ##
+- [x] JQuery: buat halaman web yg terdapat animasi, berubah warna
+- [ ] JQuery: Perhitungan (kalkulator sederhana)
