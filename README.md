@@ -10,13 +10,13 @@
 
 ## Materi ##
 - [x] HTML (Kang Tatang)
-- [x] CSS & Bootstrap (Kang Tatang)
-- [x] PHP (Kang Tatang)
+- [x] CSS (Kang Tatang)
+- [x] Bootstrap (Kang Tatang)
 - [x] Git
 - [x] Dasar JavaScript
 - [x] Penggunaan JQuery
 - [ ] Database
-- [ ] PHP??
+- [ ] PHP
 - [ ] Penggunaan CodeIgniter
 - [ ] Studi Kasus Project Development
 
