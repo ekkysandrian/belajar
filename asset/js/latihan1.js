@@ -104,5 +104,7 @@ document.write('<br>Hasil penjumlahan 2  = ' + hasilPenjumlahan2);*/
 
 function tampilkanPesan() {
 	var nilai1 = document.getElementById('nilai1').value;
-	alert(nilai1);
+	var nilai2 = document.getElementById('nilai2').value;
+	var hasil = parseInt(nilai1) + parseInt(nilai2);
+	document.getElementById('hasil').value = hasil;
 }
