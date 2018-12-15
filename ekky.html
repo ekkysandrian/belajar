@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Animasi Jquery</title>
+	<script type="text/javascript" src="asset/js/jquery-3.3.1.min.js"></script>
+<body>
+	<p>Clik Button di bawah</p>
+	<br>
+	<button type="submit" onclick=" jalan(); return false" id="tombol">click</button>
+	<div style="background:#98bf21;height:100px;width:100px;position:absolute;"></div>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+	<h2 id="Header">Header</h2>
+	<img height="50px" width="50px" src="asset/posko.jpg" id="gambar">
+<br>
+<button type="submit" onclick="togle() return false" id="tombol1">Show/hide</button>
+<button type="submit" onclick="color() return false" id="tombol1">change color header</button>
+	<script type="text/javascript">
+		function jalan() {
+			  $("div").animate({left: '250px'});
+			  }	
+		function togle() {
+			$("gambar").toggle();
+		}	  
+	</script>
+	
+</body>
+</html>
